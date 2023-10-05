@@ -1,2 +1,2 @@
-# git-basics
+# skillbox
 Скрипты по учебе на платформе SkillBox
